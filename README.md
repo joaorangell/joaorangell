@@ -1,4 +1,4 @@
-# João Felipe Rangel
+# 👨‍💻 João Felipe Rangel
 
 - 💻 Learning to become a Backend Developer
 - 📘 Studying programming
