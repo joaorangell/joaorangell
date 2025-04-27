@@ -36,5 +36,5 @@
     alt="GitHub Stats"
     height= 200px
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaorangell&show_icons=true&locale=pt-br&theme=tokyonight&include_all_commits=false" 
+    src="https://github-readme-stats.vercel.app/api?username=joaorangell&show_icons=true&locale=pt-br&theme=tokyonight&include_all_commits=true" 
 />
