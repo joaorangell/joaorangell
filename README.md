@@ -1,6 +1,6 @@
 # 👨‍💻 João Felipe Rangel
 
-**`desenvolvedor Back-End`**
+**`desenvolvedor `**
 
 - 📘 Estudando programação
 - 🚀 Buscando evoluir com a prática e projetos
