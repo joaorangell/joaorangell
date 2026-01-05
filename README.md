@@ -4,7 +4,7 @@
 
 - 📘 Estudando programação
 - 🚀 Buscando evoluir com a prática e projetos
-<br> <br>
+<br> 
 ---
 ### 🤖Linguagens e Tecnologias
 
