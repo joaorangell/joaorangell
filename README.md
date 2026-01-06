@@ -7,4 +7,47 @@
 <br> <br>
 ---
 ### 🤖Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=python,C,git,html,css)](https://skillicons.dev)
+<img
+    align="left" 
+    title= "python"
+    alt="pyhon"
+    width= 30px
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left"
+    title= "MySQL"
+    alt="MySQL"
+    width= 30px
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    title= "Git"
+    alt="git"
+    width= 30px
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+        
+ <img 
+    align="left"
+    title= "C"
+    alt="C"
+    width= 30px
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+    align="left"
+    title= "HTML"
+    alt="HTML"
+    width= 30px
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
