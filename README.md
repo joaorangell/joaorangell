@@ -7,7 +7,7 @@
 <br> <br>
 ---
 ### 🤖Linguagens e Tecnologias
-
+<br>
 <img
     align="left" 
     title= "python"
