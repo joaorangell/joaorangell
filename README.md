@@ -7,4 +7,4 @@
 <br> <br>
 ---
 ### 🤖Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=python,SQL,C,githtml,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sql,C,git,html,css)](https://skillicons.dev)
