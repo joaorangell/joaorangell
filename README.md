@@ -1,6 +1,4 @@
-# 👨‍💻 João Felipe Rangel
-
-**`desenvolvedor`**
+# 👨‍💻 João Felipe Rangel Frade
 
 - 📘 Estudando programação
 - 🚀 Buscando evoluir com a prática e projetos
@@ -23,6 +21,15 @@
     width= 30px
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    title= "Git"
+    alt="git"
+    width= 30px
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
         
  <img 
